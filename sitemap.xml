@@ -6,91 +6,90 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+
 <url>
-  <loc>https://staging.techbytespodcast.net/</loc>
-  <lastmod>2024-11-21T14:09:47+00:00</lastmod>
+  <loc>https://techbytespodcast.net/</loc>
+  <lastmod>2024-11-21T14:31:08+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://staging.techbytespodcast.net/about</loc>
+  <loc>https://techbytespodcast.net/about</loc>
+  <lastmod>2024-11-21T14:31:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://techbytespodcast.net/podcast</loc>
+  <lastmod>2024-11-21T14:31:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://techbytespodcast.net/news</loc>
+  <lastmod>2024-11-21T14:31:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://techbytespodcast.net/guides</loc>
+  <lastmod>2024-11-21T14:31:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://techbytespodcast.net/episodes/2024/11/nov22/episode</loc>
   <lastmod>2024-11-21T14:09:47+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://staging.techbytespodcast.net/podcast</loc>
-  <lastmod>2024-11-21T14:09:47+00:00</lastmod>
+  <loc>https://techbytespodcast.net/episodes/2024/11/trailer/episode</loc>
+  <lastmod>2024-11-21T14:31:08+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://staging.techbytespodcast.net/news</loc>
-  <lastmod>2024-11-21T14:09:47+00:00</lastmod>
+  <loc>https://techbytespodcast.net/posts/2024/11/fakeBlackFriday/story</loc>
+  <lastmod>2024-11-21T14:31:08+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://staging.techbytespodcast.net/guides</loc>
-  <lastmod>2024-11-21T14:09:47+00:00</lastmod>
+  <loc>https://techbytespodcast.net/posts/2024/11/metaAdultScanner/story</loc>
+  <lastmod>2024-11-21T14:31:08+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://staging.techbytespodcast.net/episodes/2024/11/nov22/episode</loc>
-  <lastmod>2024-11-21T14:09:47+00:00</lastmod>
+  <loc>https://techbytespodcast.net/posts/2024/10/changeHealthcare/story</loc>
+  <lastmod>2024-11-21T14:31:08+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://staging.techbytespodcast.net/posts/2024/11/fakeBlackFriday/story</loc>
-  <lastmod>2024-11-21T14:09:47+00:00</lastmod>
+  <loc>https://techbytespodcast.net/posts/2024/11/nvidiaBeatIntel/story</loc>
+  <lastmod>2024-11-21T14:31:08+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://staging.techbytespodcast.net/posts/2024/11/metaAdultScanner/story</loc>
-  <lastmod>2024-11-21T14:09:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://staging.techbytespodcast.net/posts/2024/10/changeHealthcare/story</loc>
-  <lastmod>2024-11-21T14:09:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://staging.techbytespodcast.net/posts/2024/11/nvidiaBeatIntel/story</loc>
-  <lastmod>2024-11-21T14:09:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://staging.techbytespodcast.net/episodes/2024/11/nov8/episode</loc>
-  <lastmod>2024-11-21T14:09:47+00:00</lastmod>
+  <loc>https://techbytespodcast.net/episodes/2024/11/nov8/episode</loc>
+  <lastmod>2024-11-21T14:31:08+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://staging.techbytespodcast.net/episodes/2024/11/trailer/episode</loc>
-  <lastmod>2024-11-21T14:09:47+00:00</lastmod>
+  <loc>https://techbytespodcast.net/posts/2024/11/amazonHaul/story</loc>
+  <lastmod>2024-11-21T14:31:08+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://staging.techbytespodcast.net/posts/2024/11/amazonHaul/story</loc>
-  <lastmod>2024-11-21T14:09:47+00:00</lastmod>
+  <loc>https://techbytespodcast.net/posts/2024/11/intelCoreUltra/story</loc>
+  <lastmod>2024-11-21T14:31:08+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://staging.techbytespodcast.net/posts/2024/11/intelCoreUltra/story</loc>
-  <lastmod>2024-11-21T14:09:47+00:00</lastmod>
+  <loc>https://techbytespodcast.net/posts/2024/10/applePoducts/story</loc>
+  <lastmod>2024-11-21T14:31:08+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://staging.techbytespodcast.net/posts/2024/10/applePoducts/story</loc>
-  <lastmod>2024-11-21T14:09:47+00:00</lastmod>
+  <loc>https://techbytespodcast.net/posts/2024/10/appleSoftwareUpdates/story</loc>
+  <lastmod>2024-11-21T14:31:08+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://staging.techbytespodcast.net/posts/2024/10/appleSoftwareUpdates/story</loc>
-  <lastmod>2024-11-21T14:09:47+00:00</lastmod>
+  <loc>https://techbytespodcast.net/posts/2024/10/welcomeStory/story</loc>
+  <lastmod>2024-11-21T14:31:08+00:00</lastmod>
   <priority>0.64</priority>
 </url>
-<url>
-  <loc>https://staging.techbytespodcast.net/posts/2024/10/welcomeStory/story</loc>
-  <lastmod>2024-11-21T14:09:47+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
-
 </urlset>
