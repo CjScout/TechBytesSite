@@ -33,6 +33,11 @@
   <priority>0.80</priority>
 </url>
 <url>
+  <loc>https://techbytespodcast.net/episodes/2024/11/nov22/episode</loc>
+  <lastmod>2024-11-21T14:09:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://techbytespodcast.net/episodes/2024/11/trailer/episode</loc>
   <lastmod>2024-11-21T14:31:08+00:00</lastmod>
   <priority>0.80</priority>
@@ -87,6 +92,4 @@
   <lastmod>2024-11-21T14:31:08+00:00</lastmod>
   <priority>0.64</priority>
 </url>
-
-
 </urlset>
